@@ -66,10 +66,6 @@ Contributions are welcome! Follow these steps:
 4. Push to the Branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
 
-## License
-
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-
 ## Contact
 
 Rachit Chheda - rachitchheda16@gamil.com

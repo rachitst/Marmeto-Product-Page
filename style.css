@@ -283,7 +283,10 @@ label {
   .details_section_container {
     width: 100%;
   }
-
+  .main_image {
+    width: 100%; 
+    height: auto; 
+  }
   .product_image {
     display: flex;
     flex-direction: column;

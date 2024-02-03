@@ -41,7 +41,8 @@ hr {
 #full_img {
   border: 2px solid transparent;
   border-radius: 10px;
-  width: 60vh;
+  width: auto;
+  height: auto;
 }
 
 .main_image {
